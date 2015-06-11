@@ -1,0 +1,39 @@
+v1.1.5
+Addon name changed.
+
+v1.1.4
+Home menu set to Ask by default.
+No on-startup until after its been ran manually once.
+
+v1.1.3
+Home menu set to Always by default.
+Rev source changed.
+
+v1.1.2
+Text
+
+v1.1.1
+addon settings edited.
+p2p-stream zip switched to data.zip.
+Removed favorites list, .ACEStream.zip.
+
+v1.1.0
+Options in addon settinsg for ACEStream and p2p-sreams.
+ACEStream and p2p-sreams zips added with exist-check(s).
+
+v1.0.9
+Fixed the repeated install question issue for the service method.
+Fixed things so it would NOT attempt to install again and again after installing is finished.  This is when running the addon.  Service method still does it.
+First Time ONLY:  sources, favorites, home screen shortcuts.  These can be done again if you clear (or set to default) the options for them in add-on settings.
+Service added for auto-check on start-up.  This can be turned off in add-on settings.
+Settngs added.
+TheHighway did a Heavy overhaul of code.
+
+v1.0.8
+...
+
+v1.0.6
+Fix Sources
+
+v1.0
+Initial Release
