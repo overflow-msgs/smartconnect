@@ -258,11 +258,11 @@ Turns your XBMC into an instant free on-demand media-center. Stream and download
 	</extension>
 </addon>
 
-<addon id="repository.msgs" name="Smart Connect Repository" version="1.0.0" provider-name="Smart Connect">
+<addon id="repository.smartconnect" name="Smart Connect Repository" version="1.0.0" provider-name="Smart Connect">
         <extension point="xbmc.addon.repository" name="Smart Connect Repository">
-                <info compressed="false">https://msgs.googlecode.com/svn/trunk/addons.xml</info>
-                <checksum>https://msgs.googlecode.com/svn/trunk/addons.xml.md5</checksum>
-                <datadir zip="true">https://msgs.googlecode.com/svn/trunk</datadir>
+                <info compressed="false">https://github.com/overflow-msgs/smartconnect/tree/master/addons/addons.xml</info>
+                <checksum>https://github.com/overflow-msgs/smartconnect/tree/master/addons/addons.xml.md5</checksum>
+                <datadir zip="true">https://github.com/overflow-msgs/smartconnect/tree/master/addons</datadir>
         </extension>
         <extension point="xbmc.addon.metadata">
                 <summary>Smart Connect Repository</summary>
